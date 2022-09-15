@@ -6,11 +6,6 @@
       "external": false
     },
     {
-      "text": "Blog",
-      "url": "/blog",
-      "external": false
-    },
-    {
       "text": "Archive",
       "url": "/archive"
     }
