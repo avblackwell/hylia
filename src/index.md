@@ -1,6 +1,6 @@
 ---
 layout: home
-title: This is Nana's Blog
+title: Hey this is a blog
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
